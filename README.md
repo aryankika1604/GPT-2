@@ -61,6 +61,8 @@ python Pre-TrainingLLM.py
 - **FeedForward**: Position-wise feed-forward network
 - **LayerNorm**: Layer normalization implementation
 
+#References
+-Raschka, Sebastian. Build A Large Language Model (From Scratch). Manning, 2024. ISBN: 978-1633437166.
 
 
 
